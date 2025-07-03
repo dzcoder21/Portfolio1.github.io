@@ -228,8 +228,8 @@ ul
     width:45px;
     border: 1px solid var(--bg-black-50);
     cursor:pointer;
-    position: relative;
-    left: 10px;
+    position: fixed;
+    left: 20px;
     top: 20px;
     z-index: 9999;
     border: none;
